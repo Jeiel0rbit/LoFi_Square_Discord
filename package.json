@@ -1,7 +1,8 @@
 {
   "dependencies": {
-    "@discordjs/voice": "^0.17.0",
+    "@discordjs/voice": "^0.16.1",
     "discord.js": "^14.15.3",
     "sodium-native": "^4.1.1"
   }
 }
+
