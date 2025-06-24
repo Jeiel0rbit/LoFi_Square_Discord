@@ -1,6 +1,6 @@
 # 🎶 LoFi Square - Bot de Música para Discord
 
-![Imagem de um bot de música tocando no Discord](https://i.imgur.com/gY83ZKl.png)
+![Imagem de um bot de música tocando no Discord](logo-lofi_square.png)
 
 Bem-vindo ao **LoFi Square**! Um bot simples e aconchegante para Discord, criado para você e seus amigos relaxarem ao som de rádios Lo-Fi 24/7.
 
